@@ -11,4 +11,5 @@
 而後執行tb檔案即可  
 
 所有的實作步驟可以參考  
-https://github.com/ZheChen-Bill/caravel-soc_fpga-lab/tree/main/lab-fir
+https://github.com/ZheChen-Bill/caravel-soc_fpga-lab/tree/main/lab-fir  
+https://www.youtube.com/watch?v=nEYv7hk92vk&list=PLTA_T2FLzYNAvdvpEQvTjXaPARtmV-0GM&index=4
