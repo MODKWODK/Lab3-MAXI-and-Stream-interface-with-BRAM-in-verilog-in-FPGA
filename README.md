@@ -3,7 +3,7 @@
 所有的資料都需要下載並且放在同一個資料夾裡面
 除了reference file  &  result  
 
-reference file 包含所有執行這個project的背景知識
+reference file 包含所有執行這個project的背景知識  
 result 包含所有的執行結果，包含了report  
 
 執行方式為  
