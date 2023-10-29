@@ -9,3 +9,6 @@
 執行方式為  
 將所有檔案放在同一個資料夾  
 而後執行tb檔案即可  
+
+所有的實作步驟可以參考  
+https://github.com/ZheChen-Bill/caravel-soc_fpga-lab/tree/main/lab-fir
